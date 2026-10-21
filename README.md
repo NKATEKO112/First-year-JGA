@@ -3,8 +3,7 @@
 **Project:** JGA Prototype for SA Township Spaza Shops  
 **Institution:** Tshwane University of Technology (TUT)  
 **Course:** Diploma in Computer Science (First Year, 2026)  
-**Team:** Fantastic 4
-
+**Team:**  Teens in Tech
 ##  Overview
 Spaza Supply is a digital ordering prototype designed to help township spaza shops streamline stock procurement, bulk pricing, and shared logistics. It addresses critical supply chain issues like high transport costs and the inability to buy in bulk.
 
