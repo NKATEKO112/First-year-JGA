@@ -10,7 +10,7 @@ Spaza Supply is a digital ordering prototype designed to help township spaza sho
 
 ## From Java to Web: How We Built It
 We started by writing the core logic in Java (`SpazaSupplyMenu.java`) to handle complex financial calculations. To make it user-friendly, we converted it into a web interface using two key resources:
-1. **High School Foundation:** Our lead developer achieved a **Distinction in Computer Applications Technology (CAT) in the NSC finals**, providing a strong background in HTML and web design.
+1. **High School Foundation:** I have a **Distinction in Computer Applications Technology (CAT) in the NSC finals**, providing a strong background in HTML and web design.
 2. **AI Assistance:** We used AI to bridge the gap, helping translate our Java backend math into responsive HTML/JavaScript for the web.
 
 ## ⚙️ Key Features
