@@ -18,7 +18,7 @@ We started by writing the core logic in Java (`SpazaSupplyMenu.java`) to handle 
 *   **Financial Calculators:** Automated formulas for selling price, revenue, net profit, and break-even quantity.
 
 ##  Acknowledgements & Transparency
-Built by the **Fantastic 4** for the JGA. We acknowledge the use of AI as a collaborative tool to translate Java into web code. All core mathematical logic and project research are our original work. 
+Built by the **Teens in Tech** for the JGA. We acknowledge the use of AI as a collaborative tool to translate Java into web code. All core mathematical logic and project research are our original work. 
 
 ---
 *Built with Java & HTML to empower South African informal retailers.*
